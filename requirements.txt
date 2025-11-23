@@ -1,0 +1,11 @@
+pytesseract
+pdf2image
+Pillow
+streamlit
+sentence-transformers
+faiss-cpu
+spacy
+rapidfuzz
+pandas
+openpyxl
+python-magic
