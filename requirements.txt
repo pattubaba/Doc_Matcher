@@ -9,3 +9,8 @@ rapidfuzz
 pandas
 openpyxl
 python-magic
+streamlit
+requests
+reportlab
+python-dotenv
+
