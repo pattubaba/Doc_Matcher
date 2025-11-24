@@ -1,12 +1,6 @@
 streamlit
 pandas
-numpy
 requests
 reportlab
 rapidfuzz
 python-dotenv
-pytesseract
-pdf2image
-openpyxl
-pydeck
-pyarrow
